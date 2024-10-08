@@ -12,7 +12,7 @@ public class FormularioCrearClientePage {
 
     public static Target SELECCIONTIPOUSUARIO = Target.the("Seleccion Tipo Usuario").locatedBy("#Default_ucControlPane0_ctl00_ddlUserType");
 
-    public static Target INGRESONOMBRES = Target.the("Ingreso Nombres").locatedBy("#Default_ucControlPane0_ctl00_txtAccess");
+    public static Target INGRESONOMBRES = Target.the("Ingreso Nombres").locatedBy("#Default_ucControlPane0_ctl00_txtNames");
 
     public static Target INGRESOAPELLIDOS = Target.the("Ingreso Apellidos").locatedBy("#Default_ucControlPane0_ctl00_txtLastNames");
 
